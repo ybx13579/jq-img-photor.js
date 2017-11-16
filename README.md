@@ -5,5 +5,5 @@
  
  
  - 效果图：
- <img src="show/1.jpg" >
+ <img src="show/1.jpg" border="1" borderColor="#000" >
  
